@@ -1,4 +1,4 @@
-import sys
+import os
 import json
 
 with open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'map.json')) as fp:
