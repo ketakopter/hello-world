@@ -1,4 +1,4 @@
-import hw
+import hw.hw
 
 def test_hw():
-  assert hw.data_to_str() == '43.5'
+  assert hw.hw.data_to_str() == '43.5'
