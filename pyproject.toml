@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+
+name = "hellow"
+version = "0.1.0"
+description = "hello world package"
